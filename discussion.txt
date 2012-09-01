@@ -1,0 +1,1 @@
+I think we should plan the overall architecture before starting. What do you think?
